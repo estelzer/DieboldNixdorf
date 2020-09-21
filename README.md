@@ -16,6 +16,5 @@ CondicionalInicial.py # Condicional para criação do arquivo   <br/>
 LoginUserMenuSimples.py # Simples menu para posterior melhoria e interação com entrada de dados   <br/>
 StartStopInstancesEC2.py # Função Lambda para iniciar e parar as instancias ec2 AWS, conforme tempo parametrizado e interação por Tag'sID.  <br/>
      
-    Autoria e contribuições
-E. Ramello   <br/>
+   <br/>
 https://docs.aws.amazon.com
