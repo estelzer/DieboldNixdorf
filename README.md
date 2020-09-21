@@ -14,7 +14,7 @@ FuncaoInput.py # Cria arquivo input e escreve informações   <br/>
 4CriacaoDeInstanciaEc2SSHParamiko.py # Acesso ssh a instancia ec2   <br/>
 CondicionalInicial.py # Condicional para criação do arquivo   <br/>
 LoginUserMenuSimples.py # Simples menu para posterior melhoria e interação com entrada de dados   <br/>
-StartStopInstancesEC2.py # Função para iniciar e parar as instancias, conforme tempo parametrizado.  <br/>
+StartStopInstancesEC2.py # Função Lambda para iniciar e parar as instancias ec2 AWS, conforme tempo parametrizado e interação por Tag'sID.  <br/>
      
     Autoria e contribuições
 E. Ramello   <br/>
