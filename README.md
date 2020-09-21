@@ -6,7 +6,7 @@ Ao término dos testes unitários, a proposta é integrar as funcionalidades, re
     Pré-requisitos
 Interpretador Python 3.
 
-     Árvore
+     Arquivos
 FuncaoInput.py # Cria arquivo input e escreve informações
 1CriacaoDeInstanciaEc2.py # Cria instancia ec2
 2CriacaoDeInstanciaEc2SecurityGroupSpec.py # Cria regras para os grupos de segurança da instancia ec2
